@@ -1,0 +1,16 @@
+{
+"name": "galaxyeasy168net",
+"theme": "galaxy easy168 net",
+"version": "2.4.1",
+"description": "galaxy easy168 net สมัครสมาชิกเว็บคาสิโนเว็บตรง ไม่ผ่านเอเย่นต์ ให้โบนัสเครดิตฟรี",
+"keywords": [
+"galaxy easy168 net",
+"galaxy easy168 net เครดิตฟรี",
+"galaxy easy168 net ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/galaxyeasy168net",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
